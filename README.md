@@ -97,6 +97,17 @@ Website
 
 http://lead-capture-site-sergiu-2026.s3-website-us-east-1.amazonaws.com
 
+
+Topics:
+aws
+serverless
+lambda
+api-gateway
+dynamodb
+s3
+cloud-project
+aws-project
+
 ## Author
 
 Sergiu Gota  
