@@ -53,6 +53,22 @@ Amazon DynamoDB – NoSQL database for storing leads
 
 ---
 
+## Project Structure
+
+```
+aws-serverless-lead-capture/
+│
+├── README.md
+│
+└── screenshots/
+    ├── 01-dynamodb-table.png
+    ├── 02-lambda-function.png
+    ├── 03-api-gateway-route.png
+    ├── 04-frontend-form-submission.png
+    ├── 05-dynamodb-leads-data.png
+    └── 06-architecture-diagram.png
+```
+
 ## Screenshots
 
 ### DynamoDB Table Configuration
@@ -74,24 +90,6 @@ Amazon DynamoDB – NoSQL database for storing leads
 ### Stored Leads in DynamoDB
 
 ![DynamoDB Leads](screenshots/05-dynamodb-leads-data.png)
-
----
-
-## Project Structure
-
-```
-aws-serverless-lead-capture/
-│
-├── README.md
-│
-└── screenshots/
-    ├── 01-dynamodb-table.png
-    ├── 02-lambda-function.png
-    ├── 03-api-gateway-route.png
-    ├── 04-frontend-form-submission.png
-    ├── 05-dynamodb-leads-data.png
-    └── 06-architecture-diagram.png
-```
 
 ---
 
